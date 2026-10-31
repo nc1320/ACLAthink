@@ -19,7 +19,6 @@ A new version of Acla that uses **AI** to answer questions.
 - **AI-generated replies**, supporting a far wider range of questions
 - **Conversation memory**, allowing follow-up questions that build on earlier messages
 - **Spoken replies** through text-to-speech
-- A **"thinking" animation** while a response is generated
 
 ---
 
