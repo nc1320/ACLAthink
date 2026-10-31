@@ -60,4 +60,4 @@ Acla Think runs in [TurboWarp](https://turbowarp.org), a free Scratch editor tha
 
 ## Credits
 
-Created by **NC_1320**.
+Created by **[NC_1320](https://scratch.mit.edu/users/NC_1320/)**.
