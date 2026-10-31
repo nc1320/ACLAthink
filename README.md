@@ -1,10 +1,10 @@
 # Acla
 
-**Acla** is a virtual assistant built in Scratch, created by **NC_1320**. You know Acla, but introducing... *Acla Think*.
+**Acla** is a virtual assistant built in Scratch, created by **NC_1320**. You know Acla, but introducing... ***Acla Think***.
 
 ---
 
-## Versions
+## ACLA Versions:
 
 ### [Acla Classic](https://scratch.mit.edu/projects/1145309837/)
 The original version of Acla.
