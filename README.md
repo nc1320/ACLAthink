@@ -1,6 +1,6 @@
 # Acla Think
 
-**Acla** is a virtual assistant built in Scratch, created by **NC_1320**. You know Acla, but introducing... ***Acla Think!***
+**Acla** is a virtual assistant built in Scratch, created by **NC_1320**. You know Acla, but introducing... ***[Acla Think!](https://nc1320.github.io/ACLAthink/)***
 
 ---
 
